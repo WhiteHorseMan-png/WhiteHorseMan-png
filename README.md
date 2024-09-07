@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Ricky
+- 👀 I’m interested in Computer Science and Electronics
+- 🌱 I’m currently learning Computer Science in my High School
+- 💞️ I’m looking to collaborate on open source, linux and cybersecurity
+- 📫 How to reach me: riccardo.volpato7@gmail.com
+- 😄 Pronouns: Man
+- ⚡ Fun fact: I love linux
